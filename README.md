@@ -53,9 +53,4 @@ Key visuals:
 - ✅ Support Tickets vs Churn
 - ✅ KPIs: Total Customers, Churned Customers, Churn Rate %
 
-> **Download or view the .pbix file**: `/dashboard/TelcoChurnDashboard.pbix`
-
----
-
-## 📂 Folder Structure
 
